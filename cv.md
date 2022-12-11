@@ -4,7 +4,7 @@
 ---
 + **Location:** Brest, Belarus
 + **Email, Skype:** vasilii.fateev@gmail.com
-+ **LinkedIn:** https://linkedin.com/in/vasilii-fateev
++ **LinkedIn:** [linkedin.com/in/vasilii-fateev](https://linkedin.com/in/vasilii-fateev)
 + **GitHub:** [github.com/Vasilii-Fateev](https://github.com/Vasilii-Fateev)
 
 ### About Me
